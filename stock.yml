@@ -2,5 +2,5 @@ spring:
   data:
     mongodb:
       host: mongo
-      port: 27011
+      port: 27017
       database: stock

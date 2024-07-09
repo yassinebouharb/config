@@ -5,4 +5,4 @@ spring:
       port: 27017
       database: order
 server:
-    port:8085
+  port: 8085

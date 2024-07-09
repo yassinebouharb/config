@@ -4,3 +4,5 @@ spring:
       host: mongo
       port: 27017
       database: order
+server:
+    port:8085
